@@ -87,7 +87,7 @@
               <failOnViolations>true</failOnViolations>
               <scanIncludes>
                 <scanInclude>
-                  <path>${project.basedir}/.git</path>
+                  <path>.git</path>
                 </scanInclude>
               </scanIncludes>
             </configuration>
