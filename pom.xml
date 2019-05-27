@@ -99,6 +99,11 @@
             <artifactId>jqassistant.plugin.git</artifactId>
             <version>1.6.1</version>
           </dependency>
+          <dependency>
+            <groupId>org.onekin.jqassistant.plugin</groupId>
+            <artifactId>jqassistant.plugin.csv</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </dependency>
         </dependencies>
       </plugin>
     </plugins>
