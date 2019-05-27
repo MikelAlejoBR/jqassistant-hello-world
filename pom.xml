@@ -84,9 +84,22 @@
             <configuration>
               <warnOnSeverity>MINOR</warnOnSeverity>
               <failOnSeverity>MAJOR</failOnSeverity>
+              <failOnViolations>true</failOnViolations>
+              <scanIncludes>
+                <scanInclude>
+                  <path>${project.basedir}/.git</path>
+                </scanInclude>
+              </scanIncludes>
             </configuration>
           </execution>
         </executions>
+        <dependencies>
+          <dependency>
+            <groupId>de.kontext-e.jqassistant.plugin</groupId>
+            <artifactId>jqassistant.plugin.git</artifactId>
+            <version>1.6.1</version>
+          </dependency>
+        </dependencies>
       </plugin>
     </plugins>
   </build>
