@@ -90,6 +90,9 @@
                   <path>.git</path>
                 </scanInclude>
               </scanIncludes>
+              <scanProperties>
+                <xml.file.include>*.xml</xml.file.include>
+              </scanProperties>
             </configuration>
           </execution>
         </executions>
