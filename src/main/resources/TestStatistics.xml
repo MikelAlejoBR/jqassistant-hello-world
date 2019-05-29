@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<statistics>
+    <user>
+        <name>Mikel Alejo</name>
+        <email>mikelalejobr@outlook.com</email>
+        <testauthorshipratio>0.7</testauthorshipratio>
+        <citestpasstotal>4381</citestpasstotal>
+        <citestpassfail>1125</citestpassfail>
+    </user>
+    <user>
+        <name>Alice</name>
+        <email>alice@example.com</email>
+        <testauthorshipratio>0.9</testauthorshipratio>
+        <citestpasstotal>5891</citestpasstotal>
+        <citestpassfail>527</citestpassfail>
+    </user>
+    <user>
+        <name>Bob</name>
+        <email>bob@example.com</email>
+        <testauthorshipratio>0.1</testauthorshipratio>
+        <citestpasstotal>3102</citestpasstotal>
+        <citestpassfail>2901</citestpassfail>
+    </user>
+</statistics>
