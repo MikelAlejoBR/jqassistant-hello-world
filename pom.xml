@@ -91,7 +91,7 @@
                 </scanInclude>
               </scanIncludes>
               <scanProperties>
-                <xml.file.include>*.xml</xml.file.include>
+                <xml.file.include>**/*.xml</xml.file.include>
               </scanProperties>
             </configuration>
           </execution>
