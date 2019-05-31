@@ -6,7 +6,7 @@ import org.onekin.authentication.InvalidCredentialsException;
 /**
  * Provides plain authentication
  */
-class AuthenticationServiceOAuth implements AuthenticationServiceInterface
+public class AuthenticationServiceOAuth implements AuthenticationServiceInterface
 {
     /**
      * {@inheritDoc}

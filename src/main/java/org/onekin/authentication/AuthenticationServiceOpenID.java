@@ -6,7 +6,7 @@ import org.onekin.authentication.InvalidCredentialsException;
 /**
  * Provides OpenID authentication
  */
-class AuthenticationServiceOpenID implements AuthenticationServiceInterface
+public class AuthenticationServiceOpenID implements AuthenticationServiceInterface
 {
     /**
      * {@inheritDoc}
