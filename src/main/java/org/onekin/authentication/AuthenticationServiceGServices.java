@@ -6,7 +6,7 @@ import org.onekin.authentication.InvalidCredentialsException;
 /**
  * Provides authentication with G Services
  */
-public class AuthenticationServiceGServices implements AuthenticationServiceInterface
+public final class AuthenticationServiceGServices implements AuthenticationServiceInterface
 {
     /**
      * {@inheritDoc}

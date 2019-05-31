@@ -1,6 +1,6 @@
 package org.onekin.inheritance;
 
-public class InheritThree extends InheritTwo
+public class InheritThree
 {
     public String inheritThreeBoo() {
         return "inheritThree Boo";

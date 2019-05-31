@@ -12,7 +12,7 @@ import static org.junit.Assert.fail;
 
 /**
  */
-public class AuthenticationServiceOAuthTesty
+public class AuthenticationServiceOAuthTest
 {
     private AuthenticationServiceInterface authenticationService;
 
